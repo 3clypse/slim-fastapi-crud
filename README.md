@@ -1,5 +1,7 @@
 
 ### Basic user CRUD, using Fastapi, async DB and Oauth login with Github SSO
+- https://github.com/tomasvotava/fastapi-sso
+- https://github.com/tiangolo/fastapi
 
 ## Key points
 - Simplicity, quick workaround using Fastapi
